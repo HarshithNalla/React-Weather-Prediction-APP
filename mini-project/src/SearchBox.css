@@ -1,0 +1,8 @@
+.SearchBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; /* Optional for inline text */
+    height: 100vh; Optional: centers vertically within the viewport
+}
